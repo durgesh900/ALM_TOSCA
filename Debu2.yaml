@@ -9,5 +9,5 @@ pool:
 steps:
 - task: PowerShell@2
   inputs:
-    filePath: 'Debu1.ps1'
+    filePath: 'Debu.ps1'
     pwsh: true
